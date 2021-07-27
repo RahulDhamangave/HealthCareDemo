@@ -1,0 +1,9 @@
+F:\Atul D\EvolentHealth\EvolnetHealth.Entities\bin\Release\netcoreapp3.1\EvolentHealth.Entities.deps.json
+F:\Atul D\EvolentHealth\EvolnetHealth.Entities\bin\Release\netcoreapp3.1\EvolentHealth.Entities.dll
+F:\Atul D\EvolentHealth\EvolnetHealth.Entities\bin\Release\netcoreapp3.1\EvolentHealth.Entities.pdb
+F:\Atul D\EvolentHealth\EvolnetHealth.Entities\obj\Release\netcoreapp3.1\EvolentHealth.Entities.AssemblyInfoInputs.cache
+F:\Atul D\EvolentHealth\EvolnetHealth.Entities\obj\Release\netcoreapp3.1\EvolentHealth.Entities.AssemblyInfo.cs
+F:\Atul D\EvolentHealth\EvolnetHealth.Entities\obj\Release\netcoreapp3.1\EvolentHealth.Entities.csproj.CoreCompileInputs.cache
+F:\Atul D\EvolentHealth\EvolnetHealth.Entities\obj\Release\netcoreapp3.1\EvolentHealth.Entities.dll
+F:\Atul D\EvolentHealth\EvolnetHealth.Entities\obj\Release\netcoreapp3.1\EvolentHealth.Entities.pdb
+F:\Atul D\EvolentHealth\EvolnetHealth.Entities\obj\Release\netcoreapp3.1\EvolentHealth.Entities.csprojAssemblyReference.cache
